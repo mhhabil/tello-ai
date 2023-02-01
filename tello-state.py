@@ -1,10 +1,3 @@
-#!/usr/bin/python3
-
-"""
-@brief      This is program for stream sensor states from Tello.
-@author     Murtadha Bazli Tukimat
-@date       17-Nov-2020
-"""
 
 import threading
 import socket
